@@ -1,2 +1,2 @@
 # odin-rockPaperScissors
-Rock, Paper, Scissors!
+Upadated version with DOM manipulation. Made for The Odin Project.
